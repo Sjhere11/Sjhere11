@@ -1,6 +1,9 @@
 Interests: Artificial Intelligence (AI) / Machine Learning (ML)
+
 Currently Learning: Python programming and Machine Learning techniques
+
 Objective: Actively working on upgrading my skills and fostering personal development
+
 Contact Information:
 Instagram: @sj_here_11
 Email: siddharthjawade20@gmail.com
