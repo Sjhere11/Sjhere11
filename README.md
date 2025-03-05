@@ -1,11 +1,14 @@
-- 👋 Hi, I’m Siddharth Jawade
-- 👀 I’m interested in AL/ML
-- 🌱 I’m currently learning python and machine learning 
-- 💞️ I’m looking to upgrade myself by learning more skills and self development
-- 📫 How to reach me - INSTAGRAM @sj_here_11
-- emial - @siddharthjawade20@gmail.com
-- 😄 Pronouns: sjhere11
-- ⚡ Fun fact = just a student who is trying to get job
+Interests: Artificial Intelligence (AI) / Machine Learning (ML)
+Currently Learning: Python programming and Machine Learning techniques
+Objective: Actively working on upgrading my skills and fostering personal development
+Contact Information:
+Instagram: @sj_here_11
+Email: siddharthjawade20@gmail.com
+Pronouns: He/Him/His
+Fun Fact: Passionate about technology and always eager to explore new trends in the AI/ML space.
+
+
+
 
 <!---
 Sjhere11/Sjhere11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
